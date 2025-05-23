@@ -12,6 +12,3 @@
 - Public speaking
 - Adaptability
 
-## Attached:
-- Quiz results screenshot
-- Notes from “Defining Your Values” section
