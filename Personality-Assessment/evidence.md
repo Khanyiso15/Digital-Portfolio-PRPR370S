@@ -8,6 +8,4 @@
 - Investigative & Enterprising
 - Best career matches: Project Manager, Business Analyst, Researcher
 
-## Attached:
-- Screenshot of personality quiz results
-- Reflection journal entry on how this shaped my career thinking
+ 
