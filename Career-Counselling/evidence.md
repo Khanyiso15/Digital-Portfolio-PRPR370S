@@ -12,6 +12,3 @@
   - What experiences do I want to have in my career?
 - Identified my desired career path: ICT Project Manager within the next 3 years.
 
-## Attached:
-- Screenshot of SMART Goal template
-- Notes from self-reflection activity
