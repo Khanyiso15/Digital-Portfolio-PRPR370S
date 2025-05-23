@@ -9,9 +9,8 @@
 - Full name and contact information clearly displayed
 - Education: Diploma in ICT from CPUT
 - Technical Skills: HTML, CSS, Python, SQL
-- Work Experience: [Add if applicable]
 - Soft Skills: Time management, adaptability, collaboration
 
 ## Attached:
 - [Download My CV (PDF)](Dyani_Khanyiso_CV.pdf)
-- Screenshot of CV design tool used (if applicable)
+
